@@ -1,0 +1,4 @@
+﻿  game.c
+C:\Users\yyyyy\Desktop\扫雷\扫雷\game.c(5,1): warning C4029: 声明的形参表不同于定义
+C:\Users\yyyyy\Desktop\扫雷\扫雷\game.c(77,36): warning C4048: “char (*)[9]”和“char (*)[11]”数组的下标不同
+  扫雷.vcxproj -> C:\Users\yyyyy\Desktop\扫雷\Debug\扫雷.exe
